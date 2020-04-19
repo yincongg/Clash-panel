@@ -124,6 +124,17 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+.DS_Store
+.vscode/
+apps/App_pravite.pem
+apps/Alipay_pub.pem
 
+*.dat
 # Pyre type checker
 .pyre/
+
+static/admin/
+static/jet/
+static/range_filter/
+*.log
+go.mod
